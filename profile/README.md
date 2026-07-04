@@ -41,6 +41,7 @@
 
 | Repositório | Descrição | Linguagem principal |
 |---|---|---|
+| [5-periodo](https://github.com/Projetos-PUCMINAS/5-periodo) | Conteúdos do 5º período de Engenharia de Software: resumos, materiais e vídeos explicativos das disciplinas de Arquitetura de Software, Desenvolvimento de Apps Móveis e Distribuídas, Estatística, Fundamentos de Projeto e Análise de Algoritmos e Gerência de Projetos. | HTML |
 | [4-periodo](https://github.com/Projetos-PUCMINAS/4-periodo) | Conteúdos do 4º período de Engenharia de Software: projetos, exercícios e materiais didáticos das disciplinas de Projeto de Software, IHC, Redes de Computadores e Teoria dos Grafos. | Diversos |
 | [3-periodo](https://github.com/Projetos-PUCMINAS/3-periodo) | Conteúdos do 3º período de Engenharia de Software: projetos, exercícios e materiais didáticos das disciplinas de AEDS-II, Engenharia de Requisitos, Introdução à Pesquisa em Informática e Sistemas Operacionais. | Java |
 | [2-Periodo](https://github.com/Projetos-PUCMINAS/2-Periodo) | Materiais de estudo do 2º período da faculdade, abordando conceitos e tecnologias aprendidas no semestre. | Diversos |
